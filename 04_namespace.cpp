@@ -8,9 +8,9 @@ namespace first{
 }
 
 namespace second{
-    int x =2
+    int x =2;
 }
 
 int main(){
-int x = 
+int x = 3 ;
 }
